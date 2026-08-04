@@ -36,52 +36,31 @@
 
 ---
 
-###  Executive Summary
+### About Me
 
-<p align="left">
-🎓 <b>Education:</b> Pursuing M.Sc. Computer Science (Data Analytics) @ Rajagiri College of Social Sciences | BCA Graduate @ Christ Nagar College<br/>
-🎯 <b>Core Focus:</b> Data Analytics, Predictive Modeling, Automated Pipelines & Full-Stack (MERN) Development<br/>
-🛠️ <b>Primary Tech:</b> Python (Pandas, Streamlit, Scikit-learn), SQL (MySQL/PostgreSQL), MongoDB, React, Node.js, REST APIs<br/>
-🎨 <b>Certifications:</b> UI/UX Design (Figma) & Cyber Security / Threat Identification<br/>
-💡 <b>Current Focus:</b> Exploring LLM-assisted data pipelines & dynamic dashboard automation
-</p>
+- I build software the way I approach data problems: **structure first, interface second** — a clean schema and clear logic before the UI gets touched.
+- My focus is full-stack systems and analytics tools that **hold up under real use** — from data cleaning and predictive modeling to dashboards people actually come back to.
+- Alongside coursework, I've picked up **UI/UX (Figma)** and **cyber security & threat identification** certifications, and I'm currently exploring **LLM-assisted data pipelines**.
 
 ---
 
-###  Technical Stack & Ecosystem
+### Tech Stack
 
-<table>
-  <tr>
-    <td width="25%" valign="top"><b>Data & Analytics</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><b>Full-Stack Development</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><b>Languages & UI/UX</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,mysql" alt="Python, JavaScript, TypeScript, Java, C++, SQL"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, React"/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,postgres" alt="Node.js, Flask, MongoDB, MySQL, PostgreSQL"/>
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Git, GitHub, Figma, VS Code"/>
 
 <br/>
 
@@ -98,7 +77,7 @@
 
 ---
 
-###  Featured Portfolio Projects
+### Featured Portfolio Projects
 
 <table>
   <tr>
@@ -141,20 +120,14 @@
 
 ---
 
-###  GitHub Analytics & Activity
+### GitHub Stats & Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AswinArun321&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=10b981&text_color=94a3b8" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=AswinArun321&theme=dark&hide_border=true&background=0f172a&ring=06b6d4&fire=10b981&currStreakNum=38bdf8" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinArun321&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=94a3b8" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinArun321&theme=react-dark&hide_border=true&bg_color=0f172a&color=06b6d4&line=10b981" width="98%"/>
+<!-- Auto-generated nightly by .github/workflows/metrics.yml (lowlighter/metrics)
+     and committed back into this repo as github-metrics.svg — no external
+     live services, no rate-limit flakiness. -->
+<img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/github-metrics.svg" alt="Aswin's GitHub metrics" width="100%"/>
 
 </div>
 
