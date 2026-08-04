@@ -1,0 +1,40 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # GITHUB_TOKEN is auto-provided by Actions and works for public stats.
+          # For deeper stats (private repos, more accurate "contributed to"
+          # counts) create a Personal Access Token with `repo` + `read:user`
+          # scopes, save it as a repo secret named METRICS_TOKEN, and swap
+          # the line below to: token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AswinArun321
+          filename: github-metrics.svg
+
+          template: classic
+          config_timezone: Asia/Kolkata
+
+          # Sections roughly matching: total stars, commits, PRs, issues,
+          # repos contributed to, plus a language breakdown + activity feed.
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_analysis_timezone: Asia/Kolkata
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 6
+
+          # Dark theme to match the rest of the README's navy/cyan palette
+          config_theme: dark
