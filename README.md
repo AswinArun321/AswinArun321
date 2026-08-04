@@ -124,10 +124,19 @@
 
 <div align="center">
 
-<!-- Auto-generated nightly by .github/workflows/metrics.yml (lowlighter/metrics)
-     and committed back into this repo as github-metrics.svg — no external
-     live services, no rate-limit flakiness. -->
-<img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/github-metrics.svg" alt="Aswin's GitHub metrics" width="100%"/>
+<!-- Auto-generated nightly by .github/workflows/stats.yml
+     (stats-organization/github-readme-stats-action), committed to /profile/
+     in this repo — self-hosted, no public rate-limit flakiness. -->
+<img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/profile/stats.svg" alt="Aswin's GitHub stats" width="48%"/>
+<img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/profile/top-langs.svg" alt="Aswin's top languages" width="48%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=AswinArun321&theme=dark&hide_border=true&background=0f172a&ring=06b6d4&fire=10b981&currStreakNum=38bdf8" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinArun321&theme=react-dark&hide_border=true&bg_color=0f172a&color=06b6d4&line=10b981" width="98%"/>
 
 </div>
 
