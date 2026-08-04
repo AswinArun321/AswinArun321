@@ -24,6 +24,18 @@
 
 ---
 
+<div align="center">
+
+### 🖥️ Whoami
+
+<a href="https://github.com/AswinArun321/AswinArun321">
+  <img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/profile-card.svg" alt="Aswin's terminal profile card" width="100%"/>
+</a>
+
+</div>
+
+---
+
 ###  Executive Summary
 
 <p align="left">
