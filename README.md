@@ -16,7 +16,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
 - 🎓 Pursuing **M.Sc. Computer Science (Data Analytics)** at Rajagiri College of Social Sciences
 - 🎓 BCA graduate, Christ Nagar College
@@ -28,7 +28,7 @@
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 **Languages**
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" alt="Python, JavaScript, TypeScript, Java, C++" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+###  GitHub Stats & Activity
 
 <table>
   <tr>
@@ -81,7 +81,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 > Each project below ships with a real outcome — not just a repo link.
 
@@ -95,26 +95,26 @@
       <!-- <img src="assets/credit-risk-demo.gif" width="100%"/> -->
     </td>
     <td width="50%">
-      <h4>🎓 <a href="https://github.com/AswinArun321/PlacementManagementSystem">Placement Management System</a></h4>
+      <h4> <a href="https://github.com/AswinArun321/PlacementManagementSystem">Placement Management System</a></h4>
       Java NetBeans system to manage campus placement workflows end-to-end.<br/>
       <em>Outcome:</em> replaces manual spreadsheet tracking with a structured DB-backed workflow.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🧩 <a href="https://github.com/AswinArun321/sudoku_Game">Sudoku Game</a></h4>
+      <h4> <a href="https://github.com/AswinArun321/sudoku_Game">Sudoku Game</a></h4>
       Browser-based Sudoku with solver logic.<br/>
       <em>Outcome:</em> clean puzzle-generation + validation logic, playable in-browser.
     </td>
     <td width="50%">
-      <h4>🔢 <a href="https://github.com/AswinArun321/Digit_Recognizer">Digit Recognizer</a></h4>
+      <h4> <a href="https://github.com/AswinArun321/Digit_Recognizer">Digit Recognizer</a></h4>
       MNIST-based handwritten digit classifier.<br/>
       <em>Outcome:</em> demonstrates end-to-end CV pipeline from raw pixels to prediction.
     </td>
   </tr>
   <tr>
     <td width="50%" colspan="2">
-      <h4>🏥 <a href="https://github.com/AswinArun321/Hospital-Patient-Queue-Management">Hospital Patient Queue Management</a></h4>
+      <h4> <a href="https://github.com/AswinArun321/Hospital-Patient-Queue-Management">Hospital Patient Queue Management</a></h4>
       Priority-queue based system for managing patient flow.<br/>
       <em>Outcome:</em> reduces wait-time ambiguity by ranking patients on urgency, not just arrival order.
     </td>
@@ -123,7 +123,7 @@
 
 ---
 
-### 📝 Latest Blog Posts
+###  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Auto-fills once you connect a blog (Medium/Dev.to/Hashnode) via the
