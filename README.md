@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:06B6D4&height=200&section=header&text=Aswin%20Arunkumar%20A&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Full-Stack%20Developer%20%7C%20Python%20%2B%20SQL&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=200&section=header&text=Aswin%20Arunkumar%20A&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Full-Stack%20Developer%20%7C%20Python%20%2B%20SQL&descAlignY=58&descSize=15" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Turning+messy+data+into+actionable+decisions;Building+full-stack+tools+that+get+used;M.Sc.+Data+Analytics+%40+Rajagiri" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+messy+data+into+actionable+decisions;Building+full-stack+tools+that+get+used;M.Sc.+Data+Analytics+%40+Rajagiri" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-arunkumar-a-8b14a0378)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinarun432@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AswinArun321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-arunkumar-a-8b14a0378)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinarun432@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AswinArun321)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AswinArun321&style=flat-square&color=06b6d4&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/AswinArun321?style=flat-square&color=10b981&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/AswinArun321?style=flat-square&color=3b82f6&label=TOTAL+STARS"/>
+<img src="https://komarev.com/ghpvc/?username=AswinArun321&style=flat-square&color=000000&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/AswinArun321?style=flat-square&color=000000&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/AswinArun321?style=flat-square&color=000000&label=TOTAL+STARS"/>
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-###  Whoami
+### Whoami
 
 <a href="https://github.com/AswinArun321/AswinArun321">
   <img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/profile-card.svg" alt="Aswin's terminal profile card" width="100%"/>
@@ -48,19 +48,19 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,mysql" alt="Python, JavaScript, TypeScript, Java, C++, SQL"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,mysql&theme=dark" alt="Python, JavaScript, TypeScript, Java, C++, SQL"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, React"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" alt="HTML, CSS, Bootstrap, React"/>
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,postgres" alt="Node.js, Flask, MongoDB, MySQL, PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,postgres&theme=dark" alt="Node.js, Flask, MongoDB, MySQL, PostgreSQL"/>
 
 **Tools & Design**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Git, GitHub, Figma, VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Git, GitHub, Figma, VS Code"/>
 
 <br/>
 
@@ -146,6 +146,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:06B6D4&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=100&section=footer" width="100%"/>
 
 </div>
