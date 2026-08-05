@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### 🖥️ Whoami
+###  Whoami
 
 <a href="https://github.com/AswinArun321/AswinArun321">
   <img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/profile-card.svg" alt="Aswin's terminal profile card" width="100%"/>
@@ -63,17 +63,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Git, GitHub, Figma, VS Code"/>
 
 <br/>
-
-<div align="center">
-
-| Skill Matrix | Proficiency | Target Use-Case |
-| :--- | :---: | :--- |
-| **Python & Data Engineering** | `████████████████░░` 85% | Analytics pipelines, ML classification & Streamlit apps |
-| **SQL & Database Architecture**| `███████████████░░░` 78% | Query optimization, relational mapping & DB management |
-| **Data Visualization & Analytics**| `██████████████░░░░` 72% | Interactive dashboards & business metrics extraction |
-| **MERN Full-Stack Development**| `█████████████░░░░░` 68% | Dynamic REST API creation & front-end interfaces |
-
-</div>
 
 ---
 
@@ -127,16 +116,25 @@
 <!-- Auto-generated nightly by .github/workflows/stats.yml
      (stats-organization/github-readme-stats-action), committed to /profile/
      in this repo — self-hosted, no public rate-limit flakiness. -->
-<img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/profile/stats.svg" alt="Aswin's GitHub stats" width="48%"/>
-<img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/profile/top-langs.svg" alt="Aswin's top languages" width="48%"/>
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/profile/stats.svg" alt="Aswin's GitHub stats" width="100%"/>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://raw.githubusercontent.com/AswinArun321/AswinArun321/main/profile/top-langs.svg" alt="Aswin's top languages" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AswinArun321&theme=dark&hide_border=true&background=0f172a&ring=06b6d4&fire=10b981&currStreakNum=38bdf8" width="65%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=AswinArun321&theme=dark&hide_border=true&background=0f172a&ring=06b6d4&fire=10b981&currStreakNum=38bdf8" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinArun321&theme=react-dark&hide_border=true&bg_color=0f172a&color=06b6d4&line=10b981" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinArun321&theme=react-dark&hide_border=true&bg_color=0f172a&color=06b6d4&line=10b981" width="100%"/>
 
 </div>
 
