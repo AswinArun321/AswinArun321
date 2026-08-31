@@ -133,9 +133,6 @@
 <img src="https://streak-stats.demolab.com/?user=AswinArun321&theme=dark&hide_border=true&background=0f172a&ring=06b6d4&fire=10b981&currStreakNum=38bdf8" width="65%"/>
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinArun321&theme=react-dark&hide_border=true&bg_color=0f172a&color=06b6d4&line=10b981" width="100%"/>
-
 </div>
 
 ---
