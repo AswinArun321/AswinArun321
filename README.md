@@ -51,38 +51,40 @@
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=python,r,js,ts,java,cpp&theme=dark" alt="Languages"/>
 
-<br/><br/>
+<br/>
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" alt="Frontend"/>
 
-<br/><br/>
+<br/>
 
 **Backend & Databases**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,flask,django,mongodb,mysql,postgres,firebase,supabase&theme=dark" alt="Backend and Databases"/>
 
-<br/><br/>
+<br/>
 
 **Data Science & Analytics**<br/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark" alt="Data Science"/>
-<br/>
-<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=E70488" height="32" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="32" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" height="32" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627" height="32" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="32" alt="Streamlit"/>
 
-<br/><br/>
+<br/>
 
 **Notebooks & Environments**<br/>
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=44A833" alt="Anaconda"/>
-<img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626" height="32" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=44A833" height="32" alt="Anaconda"/>
+<img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="32" alt="Google Colab"/>
 
-<br/><br/>
+<br/>
 
 **Tools & Design**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Tools"/>
 
+</div>
 
-<br/>
+<br/><br/>
 
 ---
 
