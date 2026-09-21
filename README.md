@@ -46,21 +46,32 @@
 
 ### Tech Stack
 
-<div align="center">
+<div>
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,r,js,ts,java,cpp&theme=dark" alt="Languages"/>
-
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" height="32" alt="Python"/>
+<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3" height="32" alt="R"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" height="32" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="32" alt="Java"/>
 <br/>
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" alt="Frontend"/>
-
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" height="32" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" height="32" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3" height="32" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" alt="React"/>
 <br/>
 
 **Backend & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,django,mongodb,mysql,postgres,firebase,supabase&theme=dark" alt="Backend and Databases"/>
-
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" height="32" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" height="32" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=44B78B" height="32" alt="Django"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" height="32" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="32" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" height="32" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E" height="32" alt="Supabase"/>
 <br/>
 
 **Data Science & Analytics**<br/>
@@ -69,21 +80,19 @@
 <img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" height="32" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627" height="32" alt="Tableau"/>
 <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="32" alt="Streamlit"/>
-
 <br/>
 
 **Notebooks & Environments**<br/>
 <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626" height="32" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=44A833" height="32" alt="Anaconda"/>
 <img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="32" alt="Google Colab"/>
-
 <br/>
 
 **Tools & Design**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Tools"/>
-
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="32" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="32" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" height="32" alt="Figma"/>
 </div>
-
 <br/><br/>
 
 ---
