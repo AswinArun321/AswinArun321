@@ -48,7 +48,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,mysql&theme=dark" alt="Python, JavaScript, TypeScript, Java, C++, SQL"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark" alt="Python, JavaScript, TypeScript, Java, C++"/>
 
 **Frontend**
 
