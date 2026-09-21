@@ -46,21 +46,41 @@
 
 ### Tech Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark" alt="Python, JavaScript, TypeScript, Java, C++"/>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,r,js,ts,java,cpp&theme=dark" alt="Languages"/>
 
-**Frontend**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" alt="HTML, CSS, Bootstrap, React"/>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" alt="Frontend"/>
 
-**Backend & Data**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,postgres&theme=dark" alt="Node.js, Flask, MongoDB, MySQL, PostgreSQL"/>
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,django,mongodb,mysql,postgres,firebase,supabase&theme=dark" alt="Backend and Databases"/>
 
-**Tools & Design**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Git, GitHub, Figma, VS Code"/>
+**Data Science & Analytics**<br/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark" alt="Data Science"/>
+<br/>
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+
+<br/><br/>
+
+**Notebooks & Environments**<br/>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=44A833" alt="Anaconda"/>
+<img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>
+
+<br/><br/>
+
+**Tools & Design**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Tools"/>
+
 
 <br/>
 
