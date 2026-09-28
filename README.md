@@ -63,23 +63,26 @@
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" alt="React"/>
 <br/>
 
-**Backend & Databases**<br/>
+**Backend & App Frameworks**<br/>
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=44B78B" height="32" alt="Django"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" height="32" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" height="32" alt="Flask"/>
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=44B78B" height="32" alt="Django"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" height="32" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="32" alt="Streamlit"/>
+<br/>
+
+**Databases & Cloud**<br/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" alt="MySQL"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="32" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" height="32" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" height="32" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E" height="32" alt="Supabase"/>
 <br/>
 
 **Data Science & Analytics**<br/>
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=E70488" height="32" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="32" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=E70488" height="32" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" height="32" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627" height="32" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="32" alt="Streamlit"/>
 <br/>
 
 **Notebooks & Environments**<br/>
