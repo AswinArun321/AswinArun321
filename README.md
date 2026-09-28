@@ -91,7 +91,13 @@
 <img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="32" alt="Google Colab"/>
 <br/>
 
-**Tools & Design**<br/>
+**Deployment & Hosting**<br/>
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" height="32" alt="Render"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="32" alt="Vercel"/>
+<br/>
+
+**Development & API Tools**<br/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" height="32" alt="Postman"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" height="32" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="32" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" height="32" alt="Figma"/>
